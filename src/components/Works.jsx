@@ -61,9 +61,7 @@ const Works = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className="mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]"
         >
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Blanditiis soluta quos porro nam quas necessitatibus
-          minus culpa itaque dolore fuga placeat quam eos numquam, aperiam, accusamus perferendis, corporis mollitia
-          doloribus?
+          Newest projects.
         </motion.p>
       </div>
 
