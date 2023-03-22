@@ -16,6 +16,8 @@ import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
+import vuejs from "./tech/vuejs.svg";
+import nestjs from "./tech/nestjs.svg";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
@@ -25,10 +27,17 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import lais from './company/lais.svg'
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import avasus from './avasus.png'
+import apj from './apj.png'
+import anunx from './anunx.png'
+import expenseapp from './expenseapp.jpg'
+import salus from './salus.png'
+import siri from './siri.png'
 
 export {
   logo,
@@ -59,4 +68,13 @@ export {
   carrent,
   jobit,
   tripguide,
+  vuejs,
+  nestjs,
+  lais,
+  avasus,
+  anunx,
+  apj,
+  expenseapp,
+  salus,
+  siri,
 };
