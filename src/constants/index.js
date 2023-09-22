@@ -180,7 +180,7 @@ const projects = [
   {
     name: "Siri",
     description:
-      "Lorem is simply dummy text of the printing and typesetting industry.",
+      "The Institutional Relations System allows intelligent monitoring of missions carried out by LAIS researchers and partners",
     tags: [
       {
         name: "vuejs",
@@ -201,7 +201,7 @@ const projects = [
   {
     name: "Salus",
     description:
-    "Lorem is simply dummy text of the printing and typesetting industry.",
+    "Diagnosis and Intelligent Monitoring of cases of acquired, pregnant, congenital and exposed child syphilis.",
     tags: [
       {
         name: "jquery",
